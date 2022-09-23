@@ -73,6 +73,7 @@ public class C02_BeforeAfter {
     //After notasyonu her testten sonra çalışır
 
     public void tearDown(){
+
         driver.close();
     }
 
